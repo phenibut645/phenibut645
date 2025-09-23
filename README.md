@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://media.tenor.com/chNGPcAXt4QAAAAd/pirat.gif">
+
 <!--
 **phenibut645/phenibut645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
