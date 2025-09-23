@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/736x/e7/22/6d/e7226d3608edb0a61e16b4c39ebe105d.jpg" width="229.7">
   
   <img src="https://i.pinimg.com/736x/25/eb/0d/25eb0d71ee4c3a2c48c967bb5c830280.jpg" width="275.7">
-  <img src="https://i.pinimg.com/736x/56/76/7c/56767c6bd43bf7de7ed1dc78a37c350d.jpg" width="275.7">
+  <img src="https://i.pinimg.com/736x/56/76/7c/56767c6bd43bf7de7ed1dc78a37c350d.jpg" width="255.7">
   </p>
   
   
