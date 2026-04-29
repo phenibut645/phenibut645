@@ -22,8 +22,11 @@
 
   # 🚬 Current main projects.
 ## 1. [Balkon | Discord BOT](https://github.com/phenibut645/balkon)
+Unlimited Discord bot ok
 ### 1.1 [Balkon | OBS Agent](https://github.com/phenibut645/balkon-obs-agent)
+Agent for Streamers which want to use OBS Feauters in the bot
 ### 1.2 [Balkon | Website](https://github.com/phenibut645/balkon-website)
+Just the bot website
   
 
 
