@@ -22,7 +22,8 @@
 
   # 🚬 Current main projects.
 ## 1. [Balkon | Discord BOT](https://github.com/phenibut645/balkon)
-  
+### 1.1 [Balkon | OBS Agent](https://github.com/phenibut645/balkon-obs-agent)
+### 1.2 [Balkon | Website](https://github.com/phenibut645/balkon-website)
   
 
 
